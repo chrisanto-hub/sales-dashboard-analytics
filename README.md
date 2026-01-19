@@ -34,3 +34,11 @@ Sales dataset sourced from Kaggle (public dataset).
 
 This analysis demonstrates how NexGEN Analytics supports
 data-driven decision-making for business growth.
+
+## 📊 Project Overview
+This repository contains an exploratory and statistical analysis
+of Amazon product data focused on pricing, discounts, and ratings.
+
+## 🔗 Portfolio & Case Study
+👉 View full project summary and client-style case study:
+https://coffee-popcorn-bac.notion.site/NexGEN-Analytics-Data-Analytics-Portfolio-2ed9ca34981e80f2b295c357ff133f1b
